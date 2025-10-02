@@ -98,8 +98,6 @@ params:
           url: https://x.com/pmichaillat
         - name: Bluesky
           url: https://bsky.app/profile/pmichaillat.bsky.social
-        - name: LinkedIn
-          url: https://www.linkedin.com/muhstafa
 
     assets:
         disableScrollBarStyle: true
